@@ -8,14 +8,14 @@ body {
 
 #top {
 	text-align: center;
-	background-color: darkcyan;
+	background-color: white;
 	padding-bottom: 10px;
 	width: 800;
 	color:darkred;
 }
 
 a:link, a:visited {
-	color:white;
+	color: black;
 	text-decoration: none;
 }
 
