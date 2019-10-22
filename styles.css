@@ -8,7 +8,7 @@ body {
 
 #top {
 	text-align: center;
-	background-color: white;
+	background-color: wheat;
 	padding-bottom: 10px;
 	width: 800;
 	color:darkred;
@@ -29,7 +29,7 @@ a:hover {
 }
 
 main {
-	background-color: burlywood;
+	background-color: white;
 }
 
 
