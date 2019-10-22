@@ -11,7 +11,7 @@ body {
 	background-color: darkcyan;
 	padding-bottom: 10px;
 	width: 800;
-	color:brown;
+	color:darkred;
 }
 
 a:link, a:visited {
@@ -29,13 +29,13 @@ a:hover {
 }
 
 main {
-	background-color: lightgray;
+	background-color: burlywood;
 }
 
 
 article p {
 	text-align: justify;
-	padding: 10px 10px;
+    padding: 10px 10px;
 }
 
 article h2 {
