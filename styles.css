@@ -11,11 +11,11 @@ h1 {
 }
 
 #top {
-	text-align: center;
-	background-color: peachpuff;
+    text-align: center;
+	background-color: aqua;
 	padding-bottom: 10px;
 	width: 800;
-	color: gainsboro;
+	color: #F2F2F2;
 }
 
 a:link {
