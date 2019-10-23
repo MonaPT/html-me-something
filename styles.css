@@ -13,14 +13,13 @@ h1 {
 
 #top {
     text-align: center;
-	background-color: aqua;
+	background-color: lightcoral;
 	padding-bottom: 10px;
 	width: 800;
-	color: #F2F2F2;
+	color: gainsboro;
 }
 
 a:link {
-    text-align: center;
 	color:white;
     text-decoration: none;
 }
