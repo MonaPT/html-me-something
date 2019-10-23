@@ -1,9 +1,13 @@
 #CSS 
 
 body {
-      text-align: center
       margin-left: 125px;
       margin-right: 125px;
+}
+
+content {
+        max-width:500px;
+        margin:auto;
 }
 
 h1 {
