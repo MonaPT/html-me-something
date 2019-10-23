@@ -1,24 +1,31 @@
 #CSS 
 
 body {
+    text-align: center;   
       margin-left: 125px;
       margin-right: 125px;
+      font-size: 50%;
 }
 
-content {
-        max-width: 500px;
+.content {
+    text-align: center;
+        max-width: 1200px;
         margin: auto;
+}
+
+.links {
+    text-align: left;
 }
 
 h1 {
     text-align: center;
     font-size: 2.5em;
-    color: black;
+    color: teal;
 }
 
 #top {
     text-align: center;
-	background-color: rosybrown;
+	background-color: ghostwhite;
 	padding-bottom: 10px;
 	width: 800;
 	color: ghostwhite;
@@ -33,9 +40,11 @@ a:hover {
 	color:blue;
 }
 
-.footer {
-	font-size: 0.9em;
-	text-align: center;
+header,
+main,
+footer {
+	background-color: lightgrey;
+	font-size: 1.3em;
 }
 
 main {
@@ -54,6 +63,7 @@ figure {
 }
 
 article h2 {
+    text-align: left;
 	padding: 5px;
 	margin: 0px;
 }
