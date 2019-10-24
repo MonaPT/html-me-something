@@ -1,13 +1,16 @@
 #CSS 
 
 body {
-    text-align: center;   
+       text-align: center;   
       margin-left: 125px;
       margin-right: 125px;
       font-size: 50%;
 }
 
 .content {
+    background-image: url("https://images.pexels.com/photos/2122755/pexels-photo-2122755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+        background-repeat:repeat;
+       background-size:cover;
     text-align: center;
         max-width: 1200px;
         margin: auto;
@@ -43,12 +46,7 @@ a:hover {
 header,
 main,
 footer {
-	background-color: lightgrey;
 	font-size: 1.3em;
-}
-
-main {
-	background-color: lightgray;
 }
 
 article p {
